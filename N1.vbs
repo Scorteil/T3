@@ -1,6 +1,6 @@
 'sasdasdas
-
-
+'dasdsad
+'dsadas
 set objShell= createobject("wscript.shell")
 
 objShell.run "notepad.exe"
