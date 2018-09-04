@@ -1,6 +1,5 @@
-'sasdasdas
-'dasdsad
-'dsadas
+'Hello GitHub
+
 set objShell= createobject("wscript.shell")
 
 objShell.run "notepad.exe"
