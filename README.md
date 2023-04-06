@@ -3,4 +3,4 @@
 ' but we dont :P
 ' though we hope one day we will
 '
-'time will tell
+'time will tell, time will always tell
